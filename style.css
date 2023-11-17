@@ -1,0 +1,50 @@
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+
+#banner {
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.avb9nDfw3kq7NOoP0grM4wHaEK&pid=Api") ;
+  background-size: cover;
+  height:300px;
+  padding: 120px 0;
+}
+.container { width: 700px;
+  margin: 50px auto;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+#subtitle {
+  color: white;
+  font-weight: 200;
+}
+
+h2 {
+  color:grey;
+  font-weight: 100;
+}
+
+p {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color:rgb(48, 31, 10);
+  font-size: medium;
+  font-weight:lighter;
+}
+
+a:hover{
+  font-weight:bolder;
+  background-color: aqua;
+}
+
+link {
+
+}
